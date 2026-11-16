@@ -12,10 +12,10 @@
 
 </div>
 
-- 🧑‍💻 平时主力 **Vue**，也写 **TypeScript / Vite**，界面尽量做得干净
-- 🧰 后端会一点 **Node.js + Express**，偶尔 Go / Python
-- 🌱 最近在啃前端工程化（打包、构建、组件拆分），也在学着把 Windows 当服务器用
-- 📫 有问题或想聊两句，QQ / 微信 / 邮箱都在下面
+- 🧑‍💻 平时写 **Vue**，也写 **TypeScript / Vite**，界面清楚就行
+- 🧰 后端用 **Node.js + Express** 撑着，偶尔写点 Go / Python
+- 🌱 最近在用 **vibecoding** 干活，遇到什么就学什么
+- 📫 想聊两句、或者有问题，QQ / 微信 / 邮箱都在下面
 
 <br>
 
@@ -77,8 +77,6 @@
 <br>
 
 <div align="center">
-
-> 界面先写清楚，服务先跑稳，剩下的慢慢补。
 
 <sub>© 2026 CTY · BUILT IN THE OPEN · <a href="https://github.com/cty1735">GITHUB.COM/CTY1735</a></sub>
 
