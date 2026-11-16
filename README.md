@@ -2,7 +2,7 @@
 
 # 你好，我是 cty 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=470&lines=%E5%B9%B3%E6%97%B6%E4%B8%BB%E5%8A%9B+Vue+%C2%B7+%E4%B9%9F%E5%86%99+TypeScript;Node.js+%E5%90%8E%E7%AB%AF%E5%A4%9F%E7%94%A8%E5%B0%B1%E5%A5%BD;Vue+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Vite" alt="Vue · TypeScript · Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0891B2&center=true&vCenter=true&width=470&lines=%E5%B9%B3%E6%97%B6%E5%86%99+Vue+%C2%B7+%E4%B9%9F%E5%86%99+TypeScript;Node.js+%E5%90%8E%E7%AB%AF%E5%A4%9F%E7%94%A8%E5%B0%B1%E5%A5%BD;Vue+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Vite" alt="Vue · TypeScript · Node.js" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=2">
