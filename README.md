@@ -70,9 +70,8 @@
 
 ### // 数据
 
-[![Stars](https://img.shields.io/github/stars/cty1735?affiliations=OWNER&style=for-the-badge&label=STARS&color=0891b2&logo=github&logoColor=white)](https://github.com/cty1735?tab=repositories&sort=stargazers)
-[![Commits](https://img.shields.io/github/commit-activity/t/cty1735?style=for-the-badge&label=COMMITS&color=7c3aed&logo=git&logoColor=white)](https://github.com/cty1735)
-[![Followers](https://img.shields.io/github/followers/cty1735?style=for-the-badge&label=FOLLOWERS&color=1a7f37&logo=github&logoColor=white)](https://github.com/cty1735?tab=followers)
+[![Stars](https://img.shields.io/github/stars/cty1735?style=for-the-badge&label=STARS&color=0891b2&logo=github&logoColor=white)](https://github.com/cty1735?tab=repositories&sort=stargazers)
+[![Followers](https://img.shields.io/github/followers/cty1735?style=for-the-badge&label=FOLLOWERS&color=7c3aed&logo=github&logoColor=white)](https://github.com/cty1735?tab=followers)
 [![Last commit](https://img.shields.io/github/last-commit/cty1735/cty1735?style=for-the-badge&label=LAST+COMMIT&color=e5484d)](https://github.com/cty1735/cty1735/commits)
 
 <br>
