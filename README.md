@@ -14,10 +14,7 @@
 
 平时在用：**Vue · TypeScript · Vite · Tailwind CSS · Node.js · Express · Docker · Git**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,express,docker,git&theme=dark&perline=8">
-  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,express,docker,git&theme=light&perline=8" alt="Vue TypeScript Vite Tailwind CSS Node.js Express Docker Git">
-</picture>
+<img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,express,docker,git&perline=8&v=2" alt="Vue TypeScript Vite Tailwind CSS Node.js Express Docker Git">
 
 邮箱 [1321259172@qq.com](mailto:1321259172@qq.com) · QQ 1321259172 · 微信 cty-dev · [GitHub](https://github.com/cty1735)
 
