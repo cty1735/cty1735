@@ -2,7 +2,7 @@
 
 # 你好，我是 cty
 
-写前端的，Vue 用得多一点。最近在拿 vibecoding 干活，遇到什么就学什么。
+写前端的，Vue 用得多一点。最近在 vibecoding，遇到什么就学什么。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=2">
