@@ -1,23 +1,82 @@
 <div align="center">
 
-# 你好，我是 cty
+# 你好，我是 cty 👋
 
-写前端的，Vue 用得多一点。最近在 vibecoding，遇到什么就学什么。
+**AI 全栈开发工程师（前端开发）**
+
+[![GitHub followers](https://img.shields.io/github/followers/cty1735?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/cty1735)
+[![GitHub stars](https://img.shields.io/github/stars/cty1735?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/cty1735)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-  <img src="./banner-light.svg?v=2" alt="cty · Vue · TypeScript · Node.js" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
+  <img src="./banner-light.svg?v=3" alt="cty · Vue · TypeScript · Node.js" width="100%">
 </picture>
 
 </div>
 
-平时在用：**Vue · TypeScript · Vite · Tailwind CSS · Node.js · Express · Docker · Git**
+界面自己写，后端交给 AI 补，一个人把东西跑起来。最近在 vibecoding，遇到什么就学什么。
 
-<img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=3" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
+---
 
-邮箱 [1321259172@qq.com](mailto:1321259172@qq.com) · QQ 1321259172 · 微信 cty-dev · [GitHub](https://github.com/cty1735)
+## 🛠 技术栈
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&theme=dark&v=4">
+  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=4" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
+</picture>
 
-<div align="center"><sub>© 2026 cty</sub></div>
+`Vue` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `Docker` · `Git` · `Claude Code` · `Codex`
+
+---
+
+## 📈 活跃度
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&theme=github_dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&theme=github&hide_border=true&area=true" alt="Activity Graph">
+</picture>
+
+---
+
+## 🐍 贡献蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cty1735/cty1735/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/cty1735/cty1735/output/github-snake.svg" alt="Contribution Snake">
+</picture>
+
+---
+
+## 🎯 现在的状态
+
+```text
+💼 身份    AI 全栈开发工程师（前端开发）
+🔭 在做    用 vibecoding 把想法做成能跑的东西
+💬 聊得来  Vue、Node、AI 编码工具
+⚡ 习惯    先跑起来，再慢慢补
+```
+
+---
+
+## 📫 找到我
+
+[![GitHub](https://img.shields.io/badge/GitHub-cty1735-181717?style=for-the-badge&logo=github)](https://github.com/cty1735)
+[![QQ](https://img.shields.io/badge/QQ-1321259172-12b7f5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1321259172@qq.com)
+[![WeChat](https://img.shields.io/badge/WeChat-cty--dev-07c160?style=for-the-badge&logo=wechat&logoColor=white)](mailto:1321259172@qq.com)
+[![Mail](https://img.shields.io/badge/Mail-1321259172%40qq.com-e5484d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1321259172@qq.com)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="">
+
+*界面先写清楚，服务先跑稳，剩下的慢慢补。*
+
+</div>
