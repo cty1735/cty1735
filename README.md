@@ -21,10 +21,7 @@
 
 ## 🛠 技术栈
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&theme=dark&v=4">
-  <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=4" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
-</picture>
+<img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=5" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
 
 `Vue` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `Docker` · `Git` · `Claude Code` · `Codex`
 
