@@ -2,14 +2,6 @@
 
 # 你好，我是 cty 👋
 
-**AI 全栈开发工程师（前端开发）**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
-  <img src="./banner-light.svg?v=3" alt="cty · Vue · TypeScript · Node.js" width="100%">
-</picture>
-
 </div>
 
 界面自己写，后端交给 AI 补，一个人把东西跑起来。最近在 vibecoding，遇到什么就学什么。
