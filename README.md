@@ -4,9 +4,6 @@
 
 **AI 全栈开发工程师（前端开发）**
 
-[![GitHub followers](https://img.shields.io/github/followers/cty1735?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/cty1735)
-[![GitHub stars](https://img.shields.io/github/stars/cty1735?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/cty1735)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg?v=3">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
