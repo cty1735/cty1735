@@ -30,8 +30,8 @@
 ## 📈 活跃度
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&theme=github_dark&hide_border=true&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&theme=github&hide_border=true&area=true" alt="Activity Graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&title_color=C9D1D9&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&bg_color=FFFFFF&color=0969da&line=0969da&point=1f2328&area=true&area_color=cfe4ff&title_color=1f2328&hide_border=true" alt="Activity Graph">
 </picture>
 
 ---
@@ -68,7 +68,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </picture>
 
