@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>你好，我是 cty 👋</h2>
+<h3>你好，我是 cty 👋</h3>
 
 </div>
 
