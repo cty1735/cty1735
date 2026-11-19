@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 🛠 技术栈
 
 <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=5" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
