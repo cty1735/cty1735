@@ -1,16 +1,16 @@
 <div align="center">
 
-<h3>你好，我是 cty 👋</h3>
+<h3>Hi, I'm cty 👋</h3>
 
 </div>
 
-### 🛠 技术栈
+### 🛠 Tech Stack
 
 `Vue` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `Docker` · `Git` · `Claude Code` · `Codex` · `opencode`
 
 ---
 
-### 📈 活跃度
+### 📈 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&title_color=C9D1D9&hide_border=true">
@@ -19,7 +19,7 @@
 
 ---
 
-### 🐍 贡献蛇
+### 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cty1735/cty1735/output/github-snake-dark.svg">
@@ -28,18 +28,18 @@
 
 ---
 
-### 🎯 现在的状态
+### 🎯 Currently
 
 ```text
-💼 身份    AI 全栈开发工程师（前端开发）
-🔭 在做    用 vibecoding 把想法做成能跑的东西
-💬 聊得来  Vue、Node、AI 编码工具
-⚡ 习惯    先跑起来，再慢慢补
+💼 Role   AI Full-stack Developer (Frontend)
+🔭 Doing  Turning ideas into working things with vibecoding
+💬 Talk   Vue, Node.js, AI coding tools
+⚡ Habit  Ship first, refine later
 ```
 
 ---
 
-### 📫 找到我
+### 📫 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-cty1735-181717?style=for-the-badge&logo=github)](https://github.com/cty1735)
 [![QQ](https://img.shields.io/badge/QQ-1321259172-12b7f5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1321259172@qq.com)
@@ -57,6 +57,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="">
 
-*界面先写清楚，服务先跑稳，剩下的慢慢补。*
-
-</div>
+*Clear UI first, stable service next, the rest can wait.*
