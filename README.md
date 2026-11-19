@@ -4,7 +4,7 @@
 
 </div>
 
-## 🛠 技术栈
+### 🛠 技术栈
 
 <img src="https://skillicons.dev/icons?i=vue,ts,vite,tailwind,nodejs,docker,git&perline=7&v=5" alt="Vue TypeScript Vite Tailwind CSS Node.js Docker Git">
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 活跃度
+### 📈 活跃度
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cty1735&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&title_color=C9D1D9&hide_border=true">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🐍 贡献蛇
+### 🐍 贡献蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cty1735/cty1735/output/github-snake-dark.svg">
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 现在的状态
+### 🎯 现在的状态
 
 ```text
 💼 身份    AI 全栈开发工程师（前端开发）
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 找到我
+### 📫 找到我
 
 [![GitHub](https://img.shields.io/badge/GitHub-cty1735-181717?style=for-the-badge&logo=github)](https://github.com/cty1735)
 [![QQ](https://img.shields.io/badge/QQ-1321259172-12b7f5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:1321259172@qq.com)
